@@ -1,0 +1,7 @@
+[
+  {
+    "question": "What is blockchain?",
+    "answer": "A blockchain is a distributed ledger with growing lists of records that are securely linked together via cryptographic hashes. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data."
+  }
+
+]
