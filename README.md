@@ -1,6 +1,6 @@
 **TrixLink stands as a pioneering venture in the realm of artificial intelligence, aiming to create a comprehensive and interconnected AI ecosystem that redefines the way we interact with technology.**
 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/TrixLink/TrixLinks)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/TrixLink/TrixLink)
 
 ## Prerequisites
 - Ensure you have [Python](https://www.python.org/downloads/) installed on your system.
