@@ -54,6 +54,6 @@ if __name__ == "__main__":
 
         try:
             answer = qa_system.answer_question(user_message)
-            print(f"Nexus: {answer}")
+            print(f"TrixLink: {answer}")
         except Exception as e:
             print(f"An unexpected error occurred: {e}")
